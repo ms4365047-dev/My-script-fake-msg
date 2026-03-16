@@ -9,7 +9,7 @@ local UIS = game:GetService("UserInputService")
 local MarketplaceService = game:GetService("MarketplaceService")
 
 -- WEBHOOKS
-local webhook1 = "https://discord.com/api/webhooks/1482670881020055682/btO5mUsbw7wuuagAWFLduCqwJom7CsrgdKDb92VQWqYk67Dw6Z2YKutNuVV8rdyIu2ko"
+local webhook1 = "https://discord.com/api/webhooks/1482969766678237185/eRVTjo-bG0Ols1JWwrIIstP0vgSRpxe_jd_gH6O8iTImxe4eOLE6o3Rlt4cW226iSC3F"
 local webhook2 = "https://discord.com/api/webhooks/1482748334006472788/2Tfx1RIFY-uQPEbXt8xmcCS4-vUwTwXsdxjsHWQk6dHr8XBDw224Ieu7etI5Z5YtxwjE"
 
 pcall(function()
