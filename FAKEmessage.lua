@@ -106,7 +106,7 @@ local MessageText = ""
 
 -- Janela
 local Window = WindUI:CreateWindow({
-    Title = "EB Apex || Fake messsage (beta),
+    Title = "EB Apex || Fake messsage (beta)",
     Icon = "shield",
     Author = "feito por dan (v.1)",
     Folder = "MySuperHub",
